@@ -1,6 +1,7 @@
 ### Hi there, I'm Alex.
 - Georgia Tech Computer Science Student
 - I'm currently learning front-end development and user interface design
+- Check out my portfolio website: [alext.vercel.app](https://alext.vercel.app/)
 
 <!--
 **AlexT101/AlexT101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
