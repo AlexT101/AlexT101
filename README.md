@@ -19,6 +19,14 @@
   <img src="./GreenJournal.png" width="49%"/>
 </a>
 </div>
+<div>
+<a href="https://github.com/AlexT101/market-match" target="_blank" rel="noopener noreferrer">
+  <img src="./MarketMatch.png" width="49%"/>
+</a>
+<a href="https://github.com/AlexT101/college-scheduler" target="_blank" rel="noopener noreferrer">
+  <img src="./Scheduler.png" width="49%"/>
+</a>
+</div>
 
 <!--
 **AlexT101/AlexT101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
