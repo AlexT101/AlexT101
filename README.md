@@ -15,7 +15,7 @@
 <a href="https://github.com/michelle692/roam" target="_blank" rel="noopener noreferrer">
   <img src="./Roam.png" width="49%"/>
 </a>
-<a href="https://github.com/barrosodavid/greenjournal" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/dbm03/greenjournal" target="_blank" rel="noopener noreferrer">
   <img src="./GreenJournal.png" width="49%"/>
 </a>
 </div>
@@ -23,8 +23,8 @@
 <a href="https://github.com/AlexT101/market-match" target="_blank" rel="noopener noreferrer">
   <img src="./MarketMatch.png" width="49%"/>
 </a>
-<a href="https://github.com/AlexT101/college-scheduler" target="_blank" rel="noopener noreferrer">
-  <img src="./Scheduler.png" width="49%"/>
+<a href="https://github.com/AlexT101/wrapped" target="_blank" rel="noopener noreferrer">
+  <img src="./Wrapped.png" width="49%"/>
 </a>
 </div>
 
