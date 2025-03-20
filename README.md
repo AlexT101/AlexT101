@@ -7,7 +7,7 @@
 <a href="https://www.alext.app" target="_blank" rel="noopener noreferrer">
   <img src="./Portfolio.png" width="49%"/>
 </a>
-<a href="https://www.immersegt.io" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/immersegt/immersegt" target="_blank" rel="noopener noreferrer">
   <img src="./ImmerseGT.png" width="49%"/>
 </a>
 </div>
