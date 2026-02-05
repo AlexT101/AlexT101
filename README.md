@@ -1,6 +1,6 @@
 ### Hey, I'm Alex! 
 
-I'm a computer science student at the Georgia Institute of Technology in Atlanta, Georgia. I specialize in frontend development using React and Typescript. Having worked across the entire stack, from UI design to backend development, I'm deeply product-driven and focused on delivering the best user experience possible.
+I'm a computer science student at Georgia Tech. Having worked across the entire stack, from UI design to backend development, I'm deeply product-driven and focused on delivering seamless user experiences.
 
 #### Check out some of my projects:
 
